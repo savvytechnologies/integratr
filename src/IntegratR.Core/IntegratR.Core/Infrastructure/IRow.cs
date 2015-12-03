@@ -1,6 +1,7 @@
 ﻿namespace IntegratR.Core
 {
-    public interface ITransformation
+    public interface IRow
     {
+
     }
 }

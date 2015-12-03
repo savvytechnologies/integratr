@@ -3,7 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 14
 VisualStudioVersion = 14.0.23107.0
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IntegratR.Core", "IntegratR.Core\IntegratR.Core\IntegratR.Core.csproj", "{DE97C786-4A2A-45CF-948A-7D0DFC2D1D11}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IntegratR.Core", "src\IntegratR.Core\IntegratR.Core\IntegratR.Core.csproj", "{DE97C786-4A2A-45CF-948A-7D0DFC2D1D11}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IntegratR.Core.Tests", "test\IntegratR.Core.Tests\IntegratR.Core.Tests.csproj", "{7053F796-B6E9-45EF-9116-35FCF949E14A}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +17,10 @@ Global
 		{DE97C786-4A2A-45CF-948A-7D0DFC2D1D11}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{DE97C786-4A2A-45CF-948A-7D0DFC2D1D11}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{DE97C786-4A2A-45CF-948A-7D0DFC2D1D11}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7053F796-B6E9-45EF-9116-35FCF949E14A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7053F796-B6E9-45EF-9116-35FCF949E14A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7053F796-B6E9-45EF-9116-35FCF949E14A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7053F796-B6E9-45EF-9116-35FCF949E14A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
