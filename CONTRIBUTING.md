@@ -1,5 +1,7 @@
 ## Contributing features and bug fixes
 
+**Working on your first Pull Request?** You can learn how from this *free* series [How to Contribute to an Open Source Project on GitHub](https://egghead.io/series/how-to-contribute-to-an-open-source-project-on-github)
+
 IntegratR is currently accepting contributions in the form of bug fixes. If you'd like to contribute a feature please add is to suggetions list first and link your pull request to it. If you've submitted a PR for a bug, please post a comment in the bug to avoid duplication of effort.
 
 ## Contributing features
